@@ -4,22 +4,20 @@
      please stand by...
 -->
 
-# ᯓ★ Hello World! ★ᯓ  
-```
- $ whoami
-```
-> ➤ a girl immersed in logic, commands, and the pursuit of beautiful code  
-> ➤ 42 student, self-taught shapeshifter (｡•̀ᴗ-)✧
+# ᯓ★ Hello World! ᯓ★
+` $ whoami `
+> ➤ a girl immersed in logic, commands, and the pursuit of beautiful code(｡•̀ᴗ-)✧    
+> ➤ 42 student ∠( ᐛ 」∠)_
 ---
 
-### 🛠️ languages:   
-🌊 C    
-🐚 Shell   
-🌐 ...and dreams of other languages
+### 🛠 languages(„• ֊ •„):   
+>🌊 C    
+>🐚 Shell   
+>🌐 ...and dreams of other languages
 
 ---
 
-## 🌌what is this place??
+## 🌌what is this place??Σ(‘◉⌓◉’Σ)???
 ```
 $ ls -F projects/
 ```
@@ -27,11 +25,11 @@ $ ls -F projects/
 🛠️ tiny tools, half-broken ideas
 🪄... maybe some magic  
 ✨ some broken code, some working spells  
-🔥 forged in 42 fire (*ﾉ▽ﾉ)
+🔥 forged in 42 fire o(>ω<)o
 
 ---
 
-## 🧩 42: My Arcane Library 📚🔮 (๑>ᴗ<๑)
+## 🌠 42: My Arcane Library 📚🔮 (๑>ᴗ<๑)
 ```
 $ read --tome "ancient_algorithms.grimoire" 
 ```
@@ -57,3 +55,4 @@ And I'm just here, deciphering the secrets of the code! (´｡• ᵕ •｡`)
 
 ---
 -->
+                                ◯ ☽ ◑ ● ◐ ☾ ◯
