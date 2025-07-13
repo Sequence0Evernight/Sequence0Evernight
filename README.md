@@ -5,9 +5,11 @@
 -->
 
 # ᯓ★ Hello World! ᯓ★
-` $ whoami `
+```
+$ whoami
+```
 > ➤ a girl immersed in logic, commands, and the pursuit of beautiful code(｡•̀ᴗ-)✧    
-> ➤ 42 student ∠( ᐛ 」∠)_
+> ➤ a 42 student ∠( ᐛ 」∠)_
 ---
 
 ### 🛠 languages(„• ֊ •„):   
