@@ -4,9 +4,9 @@
      please stand by...
 -->
 
-<h1 align="center" style="color:#ff69b4;font-weight:bold;font-family:'Fira Code',monospace;">
-ᯓ★ Hello World! ᯓ★
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=180&section=header&fontSize=38&fontAlign=50&fontColor=ffffff&text=ᯓ★+Hello+World!+ᯓ★" alt="Pink Wavy Banner"/>
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code%20Sorceress-%23ff69b4?style=for-the-badge&logo=codeforces&logoColor=white">
@@ -75,4 +75,8 @@ $ read --tome "ancient_algorithms.grimoire"
 
 <p align="center" style="color:#ff69b4;font-size:1.2em;">
   ◯ ☽ ◑ ● ◐ ☾ ◯
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=80&section=footer" alt="Pink Wavy Divider"/>
 </p>
