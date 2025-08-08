@@ -4,11 +4,6 @@
      please stand by...
 -->
 
-<!-- Pink Animated Waves SVG Divider (works on GitHub and web markdown) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sequence0Evernight/assets/main/pink-waves-animated.svg" alt="Pink Animated Waves" width="100%" style="min-width:300px;">
-</p>
-
 <h1 align="center" style="color:#ff69b4;font-weight:bold;font-family:'Fira Code',monospace;">
 ᯓ★ Hello World! ᯓ★
 </h1>
@@ -80,8 +75,4 @@ $ read --tome "ancient_algorithms.grimoire"
 
 <p align="center" style="color:#ff69b4;font-size:1.2em;">
   ◯ ☽ ◑ ● ◐ ☾ ◯
-</p>
-<!-- Pink Animated Waves SVG Divider (footer) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sequence0Evernight/assets/main/pink-waves-animated.svg" alt="Pink Animated Waves" width="100%" style="min-width:300px;">
 </p>
