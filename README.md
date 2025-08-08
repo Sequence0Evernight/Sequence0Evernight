@@ -9,9 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20Sorceress-%23ff69b4?style=for-the-badge&logo=codeforces&logoColor=white">
   <img src="https://img.shields.io/badge/42%20Student-%23ffb6c1?style=for-the-badge&logo=42&logoColor=white">
-  <img src="https://img.shields.io/badge/Modern%20Magick-%23ff1493?style=for-the-badge">
 </div>
 
 ---
