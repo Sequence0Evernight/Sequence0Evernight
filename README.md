@@ -42,20 +42,6 @@ $ ls -F projects/
 > 🔥 <span style="color:#ff69b4;">forged in 42 fire</span> o(>ω<)o
 
 ---
-
-## 🌠 42: My Arcane Library 📚🔮 (๑>ᴗ<๑)
-```shell
-$ read --tome "ancient_algorithms.grimoire" 
-```
-> it's less a school and more a boundless arcane library,<br>
-> brimming with forgotten lore and shimmering scrolls of code! 📜✨🌌  
-> And I'm just here, deciphering the secrets of the code! (´｡• ᵕ •｡`)
-
-> ✨ no lectures, just endless quests for knowledge forged together with fellow spellweavers! 🔮  
-> we learn from each other's spells, and the thrilling discovery of a perfectly cast function! 🪄 (ﾉ´ヮ´)ﾉ*:･ﾟ✧
-
----
-
 ## ✨ A Little Spark of Wisdom ✨ (ง'̀-'́)ง
 
 > <span style="color:#ff69b4;font-style:italic;">"The only true wisdom is in knowing you know nothing. And then, you code."</span>
