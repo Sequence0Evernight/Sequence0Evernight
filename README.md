@@ -28,7 +28,6 @@ $ whoami
 > 🪸 <span style="color:#ff69b4;">C++</span>  
 > 🐍 <span style="color:#ff69b4;">Python</span>  
 > 🐚 <span style="color:#ff69b4;">Shell</span>  
-> 🌐 <span style="color:#ff69b4;">...and dreams of other languages</span>
 
 ---
 
